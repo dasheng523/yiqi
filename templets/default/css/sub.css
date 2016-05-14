@@ -412,7 +412,9 @@ e
 #ctl00_ContentConn_PageInfo { padding: 3px; text-align: center; margin-top: 20px; font-size: 14px; float: left; /*height: 45px;*/ line-height: 40px; width: 95%; }
     #ctl00_ContentConn_PageInfo a {background: #fff none repeat scroll 0 0; border: 1px solid #bcbcbc; color: #999; margin: 5px 5px 0 0; padding: 4px 10px ; }
         #ctl00_ContentConn_PageInfo a:hover { background: #ff3a3b none repeat scroll 0 0; border: 1px solid #c00; color: #fff;  text-decoration: none; }
-		  #ctl00_ContentConn_PageInfo .current { background: #ff3a3b none repeat scroll 0 0; border: 1px solid #c00; color: #fff;  text-decoration: none; }
+		  #ctl00_ContentConn_PageInfo .current { background: #ff3a3b none repeat scroll 0 0; border: 1px solid #c00; color: #fff;  text-decoration: none; border: 1px solid #bcbcbc;
+    margin: 5px 5px 0 0;
+    padding: 4px 10px;}
 
 /* ”∆µ–¬Œ≈*/
 .sub_news_left_tj { width: 100%; float: left; border-bottom-style: dashed; border-bottom-width: 1px; border-bottom-color: #808080; margin-bottom: 10px; padding-bottom: 10px; }
