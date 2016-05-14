@@ -88,7 +88,7 @@ for (var i = 0; i < mobileAgent.length; i++) {
         isMobile = true;
 
         document.writeln("<div class=\"footer_phone\">");
-        document.writeln("	 <a href=\"tel:037167776666\"><span>立即拨打：<strong>0371-67776666</strong></span></a>");
+        document.writeln("	 <a href=\"tel:020-37705219\"><span>立即拨打：<strong>020-37705219</strong></span></a>");
         document.writeln("</div>");
         document.writeln("<style type=\"text/css\">");
         document.writeln("    #LXB_CONTAINER_SHOW{ display: none !important;}");
