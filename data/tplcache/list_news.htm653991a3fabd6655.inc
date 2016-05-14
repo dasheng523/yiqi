@@ -1,0 +1,42 @@
+<?php
+$z[0]=Array("field","",256,279);
+$z[0][4]['name']="seotitle";
+$z[1]=Array("global","",323,353);
+$z[1][4]['name']="cfg_description";
+$z[2]=Array("global","",390,417);
+$z[2][4]['name']="cfg_keywords";
+$z[3]=Array("global","",703,735);
+$z[3][4]['name']="cfg_templets_skin";
+$z[4]=Array("global","",815,847);
+$z[4][4]['name']="cfg_templets_skin";
+$z[5]=Array("global","",925,957);
+$z[5][4]['name']="cfg_templets_skin";
+$z[6]=Array("global","",1066,1098);
+$z[6][4]['name']="cfg_templets_skin";
+$z[7]=Array("global","",1183,1215);
+$z[7][4]['name']="cfg_templets_skin";
+$z[8]=Array("global","",1278,1310);
+$z[8][4]['name']="cfg_templets_skin";
+$z[9]=Array("include","",1384,1419);
+$z[9][4]['filename']="head.htm";
+$z[10]=Array("global","",1470,1502);
+$z[10][4]['name']="cfg_templets_skin";
+$z[11]=Array("channel","\r\n            <li id='leftMenu_101001'><a href='[field:typelink/]'>[field:typename/]</a></li>\r\n            ",1697,1857);
+$z[11][4]['type']="son";
+$z[11][4]['noself']="yes";
+$z[12]=Array("field","",1905,1934);
+$z[12][4]['name']="position";
+$z[13]=Array("list","\r\n\r\n<li><span class='newal'><a href='[field:arcurl/]'>[field:title/]</a></span><span class='newar'>[field:pubdate function=\"GetDateMK(@me)\"/] </span></li>\r\n",2091,2298);
+$z[13][4]['pagesize']="10";
+$z[13][4]['titlelen']="50";
+$z[14]=Array("pagelist","",2439,2517);
+$z[14][4]['listitem']="info,index,end,pre,next,pageno,option";
+$z[14][4]['listsize']="5";
+$z[15]=Array("arclist","\r\n                    <li><a href='[field:arcurl/]' title='[field:title/]'>[field:title/]</a></li>\r\n",2808,2972);
+$z[15][4]['row']="10";
+$z[15][4]['orderby']="click";
+$z[15][4]['titlelen']="50";
+$z[16]=Array("include","",3059,3094);
+$z[16][4]['filename']="foot.htm";
+
+?>

@@ -1,0 +1,43 @@
+<?php
+$z[0]=Array("field","",252,275);
+$z[0][4]['name']="seotitle";
+$z[1]=Array("global","",319,349);
+$z[1][4]['name']="cfg_description";
+$z[2]=Array("global","",386,413);
+$z[2][4]['name']="cfg_keywords";
+$z[3]=Array("global","",698,730);
+$z[3][4]['name']="cfg_templets_skin";
+$z[4]=Array("global","",810,842);
+$z[4][4]['name']="cfg_templets_skin";
+$z[5]=Array("global","",920,952);
+$z[5][4]['name']="cfg_templets_skin";
+$z[6]=Array("global","",1061,1093);
+$z[6][4]['name']="cfg_templets_skin";
+$z[7]=Array("global","",1178,1210);
+$z[7][4]['name']="cfg_templets_skin";
+$z[8]=Array("global","",1273,1305);
+$z[8][4]['name']="cfg_templets_skin";
+$z[9]=Array("include","",1378,1413);
+$z[9][4]['filename']="head.htm";
+$z[10]=Array("global","",1462,1494);
+$z[10][4]['name']="cfg_templets_skin";
+$z[11]=Array("channel","\r\n            <li id='leftMenu_101001'><a href='[field:typelink/]'>[field:typename/]</a></li>\r\n            ",1682,1842);
+$z[11][4]['type']="son";
+$z[11][4]['noself']="yes";
+$z[12]=Array("field","",1873,1902);
+$z[12][4]['name']="position";
+$z[13]=Array("list","\r\n                 <dl>\r\n                   <dt><a href='[field:arcurl/]'>\r\n                 <img src='[field:litpic/]' width='394' height='330'></a></dt>\r\n                 <dd><div class='tit'><h3><a href='[field:arcurl/]'>[field:title/]</a></h3>\r\n                 <div class='case-more'><a href='[field:arcurl/]' class='case-detail' rel='nofollow'>查看详情</a> <a href='#'  rel='nofollow' onclick=\"javascript:window.open('../../a/cpzx');\" class='case-shihe'>选择适合我的产品</a></div></div> <p> 【生产能力】：[field:scnl/] </p><p> 【方案优势】：[field:fays/] </p><p> 【组成部件】：[field:bjzc/] </p> </dd></dl>\r\n<dl><dt><a href='[field:arcurl/]'> </p> </dd></dl>\r\n  ",2039,2819);
+$z[13][4]['pagesize']="5";
+$z[13][4]['addfields']="scnl,fays,bjzc";
+$z[13][4]['channelid']="19";
+$z[14]=Array("pagelist","",2930,3028);
+$z[14][4]['listitem']="&quot;info,index,end,pre,next,pageno,option&quot;";
+$z[14][4]['listsize']="&quot;5&quot;";
+$z[15]=Array("arclist","\r\n            <dl>\r\n              <dt><a href='[field:arcurl/]'><img src='[field:litpic/]' width=\"216\" height=\"159\" alt=\"[field:title/]\" title='[field:title/]' /></a></dt>\r\n              <dd><a  href='[field:arcurl/]'>[field:title/]</a></dd>\r\n            </dl>\r\n            ",3188,3522);
+$z[15][4]['typeid']="9";
+$z[15][4]['titlelen']="42";
+$z[15][4]['row']="15";
+$z[16]=Array("include","",3562,3597);
+$z[16][4]['filename']="foot.htm";
+
+?>
